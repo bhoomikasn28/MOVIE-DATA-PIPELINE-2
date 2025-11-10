@@ -1,3 +1,5 @@
+MOVIE DATA PIPELINE
+
 1.Project Overview 
 Implemented an ETL data pipeline that integrates the MovieLens dataset with the OMDb API. The objective is to extract movie and rating data, perform data cleaning and transformation, enrich the dataset with additional movie metadata, and load the processed data into an SQLite database for analytical querying and insights. 
 
